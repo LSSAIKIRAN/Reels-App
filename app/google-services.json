@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268782597067",
+    "project_id": "snapee-9f368",
+    "storage_bucket": "snapee-9f368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268782597067:android:c46d60c6ab1a95f2ca7c4e",
+        "android_client_info": {
+          "package_name": "com.kiran.snapee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0mIvoYUXstdEusgz05sb0nSCERJhC1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

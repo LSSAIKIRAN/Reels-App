@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Snapee</string>
+    <string name="title_home">Home</string>
+    <string name="upload">Upload</string>
+    <string name="profile">profile</string>
+
+    <string name="snapee">Snapee</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="create_your_password">Create your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="signup">Signup</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="signin">Signin</string>
+    <string name="signup1">Signup</string>
+    <string name="lrf">LRF</string>
+    <string name="from">from</string>
+    <string name="click_on_plus_icon">Click on plus icon</string>
+    <string name="write_caption_here">write caption here...</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+
+</resources>
